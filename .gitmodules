@@ -1,3 +1,6 @@
 [submodule "bezpieczenstwo"]
 	path = bezpieczenstwo
 	url = https://github.com/BlazejUl/bezpieczenstwo
+[submodule "Konfiguracja_baz_danych"]
+	path = Konfiguracja_baz_danych
+	url = https://github.com/Chaiolites/Konfiguracja_baz_danych
