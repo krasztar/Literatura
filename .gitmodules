@@ -10,3 +10,6 @@
 [submodule "Wydajnosc_Skalowanie_i_Replikacja"]
 	path = Wydajnosc_Skalowanie_i_Replikacja
 	url = https://github.com/Broksonn/Wydajnosc_Skalowanie_i_Replikacja
+[submodule "repo-wspolne"]
+	path = repo-wspolne
+	url = https://github.com/GrzegorzSzczepanek/repo-wspolne
