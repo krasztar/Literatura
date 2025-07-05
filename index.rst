@@ -11,3 +11,4 @@ Literatura
    Wydajnosc_Skalowanie_i_Replikacja
    repo-wspolne
    Partycjonowanie-danych
+   Kopie_zapasowe_i_odzyskiwanie_danych
