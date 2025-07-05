@@ -7,3 +7,6 @@
 [submodule "Sprzet-dla-bazy-danych"]
 	path = Sprzet-dla-bazy-danych
 	url = https://github.com/oszczeda/Sprzet-dla-bazy-danych
+[submodule "Wydajnosc_Skalowanie_i_Replikacja"]
+	path = Wydajnosc_Skalowanie_i_Replikacja
+	url = https://github.com/Broksonn/Wydajnosc_Skalowanie_i_Replikacja
