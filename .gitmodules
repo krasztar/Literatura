@@ -13,3 +13,6 @@
 [submodule "repo-wspolne"]
 	path = repo-wspolne
 	url = https://github.com/GrzegorzSzczepanek/repo-wspolne
+[submodule "Partycjonowanie-danych"]
+	path = Partycjonowanie-danych
+	url = https://github.com/BartekHen/Partycjonowanie-danych
